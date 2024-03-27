@@ -1,3 +1,4 @@
+#행렬덧셈
 #출력 방식이 잘못됐었다. print()는 한 줄 뛰는거
 n,m = map(int,input().split())
 a =[list(map(int,input().split())) for _ in range(n)]
